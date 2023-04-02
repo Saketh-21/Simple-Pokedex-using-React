@@ -1,1 +1,1 @@
-# Simple-Pokedex-using-React
+#Simple Pokemon Application using React and PokeAPI
